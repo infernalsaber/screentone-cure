@@ -1,7 +1,3 @@
-import os
-
-os.system("apt-get update && apt-get install libgl1")
-
 import streamlit as st
 from cv2 import GaussianBlur, bilateralFilter, filter2D, imdecode, IMREAD_COLOR
 import numpy as np

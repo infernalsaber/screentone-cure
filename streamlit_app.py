@@ -3,6 +3,9 @@ import cv2
 import numpy as np
 from io import BytesIO
 
+import matplotlib
+matplotlib.use('Agg')
+
 versionNumber = '0.1'
 
 def blur(img, blur_amount=5):

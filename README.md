@@ -46,7 +46,7 @@ $ pip install -r requirements.txt
 
 Run the project
 ```
-$ streamlit run stremove.py
+$ streamlit run streamlit_app.py
 ```
 
 

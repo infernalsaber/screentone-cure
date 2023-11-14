@@ -1,3 +1,5 @@
 streamlit
 opencv-python
 numpy
+PyOpenGL
+PyOpenGL_accelerate

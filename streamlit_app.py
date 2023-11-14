@@ -1,3 +1,7 @@
+import os
+
+os.system("apt-get update && apt-get install libgl1")
+
 import streamlit as st
 import cv2
 import numpy as np
